@@ -12,7 +12,7 @@ let timeId;
 let start;
 let end;
 let arrowButtonY;
-let vsryiv = new Audio('odinochnyiy-vzryiv.mp3')
+let vsryiv = new Audio('Звук Проигрыш для Гейм Овера.mp3')
 let neodVsryiv = new Audio('neojidannyiy-odinochnyiy-vzryiv.mp3')
 const megaShashlik = document.querySelector('.mega-shashlik')
 let megaPersik = document.querySelector('.mega-persik')
